@@ -1,0 +1,34 @@
+Conditional Statements:-
+
+1) if statement
+
+syntax:-
+
+	if(condition)
+	{
+		True statement;
+	}
+
+2) if...else statement
+
+syntax:-
+
+	if(condition)
+	{
+		True statement;
+	}
+	else
+	{
+		False statement;
+	}
+
+Task:- Write a program to find the maximum between the
+two numbers.
+
+
+
+Task:- Write a program to check if the person can get
+licence or not.
+
+Task:- Write a program to check if a given number is
+divisible by 5 and 11 or not. 

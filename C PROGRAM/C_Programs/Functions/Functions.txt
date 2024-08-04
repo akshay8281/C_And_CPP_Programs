@@ -1,0 +1,118 @@
+Functions:-Function is a block of code or a piece of code that we can use
+again and again.
+
+With the help of function we can reuse the same code by calling the function
+again and again
+
+Function Provides reusability because we can call same function as many
+times as we want.
+
+Types of Function:-
+
+1) Inbuilt Function or Library Functions:-printf(),scanf(),main(),strlen()...
+
+2) User Defined Functions:- Which is defined by user:-
+add(),greetings(),factorial()...
+
+
+Function Declaration:- We will declare the function
+
+Function Calling:- We will call the function
+
+syntax:-
+
+	datatype functionname(int a, int b)   -- Function Declaration
+	{
+		block of code...
+
+	}
+	main()
+	{
+
+		functionname(10,20);  -- Function calling
+
+	}
+
+
+
+void-null value
+
+a=20
+b=30
+
+a=30
+b=20
+
+
+a=10
+b=20
+
+swapping
+a=20
+b=10
+
+
+a=a+b
+a=30
+
+b=a-b
+ =20-10
+b=10
+
+a=a-b
+ =30-10
+a=20
+
+
+Categories of Function:-
+
+There are 4 categories of Functions:-
+
+1) Function Without Parameters and Without Return Value
+
+2) Function With Parameters and Without Return Value
+
+3) Function Without Parameters and With Return Value
+
+4) Function With Parameters and With Return Value
+
+
+Interview Question:- Difference Between Parameters and Arguments.
+
+Parameters:-The variables which we will write during function declaration
+is called parameters.
+
+Arguments:- The values which we will write during function calling is 
+called arguments.
+
+Return Value:- It will return some value or it will return something 
+
+int main()  --int--return type 
+{
+	return 0;  -- return value
+
+}
+
+
+Done---
+Write a program to find the average of 5 numbers:- With and Without 
+
+Done----
+Write a program to find the area of sqaure:-Without and With 
+
+Done----
+Write a program to check the number is even or odd- with and with 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

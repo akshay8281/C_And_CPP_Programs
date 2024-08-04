@@ -1,0 +1,34 @@
+login()-  1
+
+login(email,mobile).  - 2
+Here email and mobile are parameters.
+
+
+Click on mobile button and it will return the mobile page. - 3
+
+login(email,mobile)
+
+Enter email:- manav@gmail.com
+
+if it matches:
+
+return home page
+
+if it not matches
+
+return invalid email or password 
+
+
+Factorial:-
+
+5!=5*4*3*2*1=120
+
+
+
+
+
+
+
+
+
+

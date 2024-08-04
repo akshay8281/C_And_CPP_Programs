@@ -1,0 +1,66 @@
+4) Do...While Loop:-Exit Controlled Loop
+
+syntax:-
+
+	intialization
+	do
+	{
+		statement;
+		updation;
+
+
+
+	}while(condition);
+
+
+Arrays:- Array is a user defined data type which is used to store multiple
+values in a single element.
+
+Array index value starts from 0.
+
+
+window +   0
+
+window +   1
+
+window +   2
+
+syntax:-
+
+	datatype arrname[size]={elements};
+
+Types of Array:-
+
+1) Single Dimensional Array(1-D):-datatype arrname[size]
+
+2) Multi Dimensional Array(2-D):- datatype arrname[row][col]
+
+
+Matrix:-
+1 2 4
+6 7 8
+
+6 9 4
+1 3 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

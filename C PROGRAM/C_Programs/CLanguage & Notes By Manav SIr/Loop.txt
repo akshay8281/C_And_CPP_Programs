@@ -1,0 +1,33 @@
+Looping Structures:-
+
+Loop:- It executes statement repeatedly
+
+Types of Loops:-
+
+1) For Loop:- sequence controlled Loop
+
+syntax:-	
+
+	for(initialization;condition;updation)
+	{
+
+		statement;
+
+	}
+
+
+Task:- Write a program to find the multiplication table -
+user input
+
+Enter number:-2
+
+2 * 1=2
+2 * 2=4
+2 * 3=6
+
+
+
+
+
+
+

@@ -1,0 +1,115 @@
+Conditional Statements:-
+
+1) if statement 
+
+2) if else statement 
+
+3) else if statement or else if ladder
+
+syntax:-
+
+	if(condition)
+	{
+		statement;
+	}
+	else if(condition)
+	{
+		statement;
+	}
+	else if(condition)
+	{
+		statement;
+
+	}
+	else
+	{
+		statement;
+
+	}
+
+
+4) Nested if statement:-
+
+syntax:- 	
+
+	if(condition)
+	{
+		if(condition)
+		{
+			statement;
+		}
+
+		statement;
+		else
+		{
+			
+		}
+
+	}
+	else
+	{
+
+	}
+
+5) Switch Statement:- 
+
+syntax:-
+
+
+		switch(varname)
+		{
+			case 1:
+			statement;
+			break;
+		
+			case 2:
+			statement;
+			break;
+
+			case 3:
+			statement;
+			break;
+
+
+			default:
+			statement
+
+		}
+
+
+
+
+Milan
+Bhavin
+Meet
+Nisha
+Dhanvi
+Akshay
+Jayraj
+
+
+
+Done
+Task:- Write a program to find the maximum between the three numbers.
+
+
+Done.....
+Task:- Write a program to check whether a given triangle is equilateral,
+isosceles or scalene.
+
+
+
+
+Done
+Task:- Write a program to check if a given letter is vowel or consonant 
+using switch case.
+
+
+
+Done
+Task:- Write a program to enter the month number and find number of days in 
+given month using switch case.
+
+
+
+

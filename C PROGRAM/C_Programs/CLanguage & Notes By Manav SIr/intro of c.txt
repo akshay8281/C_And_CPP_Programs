@@ -1,0 +1,121 @@
+air00179
+
+C Language:- C is a high level programming language.
+
+low-level:- Machine Language:- Binary Language:-
+0 or 1
+
+high-level:- Human Understable Language:- All programming languages
+
+
+History of C:-
+
+C was created by denis m. ritchie in 1972 at bell laboratories, california.
+
+language:- grammar
+
+c:- syntax
+
+#- predefined
+include:- To add something
+stdio.h:- standard input output header file 
+main()
+{
+
+	code...
+
+}
+
+printf():- To print something on console screen 
+
+
+Escape sequence:-
+
+\n:- new line
+\t:- tab(4 spaces)
+
+Datatypes and Variables:-
+
+Datatypes:-
+
+--> There are two types of data types:-
+
+	1) primitive data types:- predefined:- int,
+		float,char,double...
+
+        2) non-primitive data types:- user defined          data types:- string,structure,array,class...
+
+number:- Without Point:- integer:- int:-78,12,903,-12...
+
+	With Point:- float:-67.12,45.90,-12.67...
+	float will store upto six digits
+
+double
+
+character:-A-Z-char 
+
+Access Specifier:-
+
+int:- %d or %i
+float:- %f
+double:- %lf
+char:- %c
+
+Variables:- To store any values
+
+a=50. Here a is variable and 50 is value
+manav=100.Here manav is variable and 100 is value 
+
+Rules of Variables:-
+
+1) Variables should not start with digits.
+1num x
+num1
+
+2) Varibles should not contain the white spaces.
+no of books x
+no_of_books 
+
+3) Variables should not contain the keywords.
+
+	keywords:- predefined or reserved word
+		if,for:- 32 keywords
+
+if=50  x
+
+4) Variables must start with a-z or A-Z or _ 
+
+b=60
+tops=500
+
+static value:- predefined value
+
+dynamic value:- user input value
+
+scanf():- user input 
+
+Task:- Write a program to find the area of square.user input 
+
+Task:- Write a program to find the area of rectangle.user
+input.
+
+Task:- Write a program to find the area of triangle.
+
+Task:- Write a program to find the simple interest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

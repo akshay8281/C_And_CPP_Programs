@@ -1,0 +1,89 @@
+Akshay
+Jay
+Bhavin
+Jayraj
+Milan
+Meet
+Dhanvi
+Nisha
+
+
+Operators:-
+
+To Perform Operations Between two operands is called
+operators.
+
+a + b. Here a and b is operands and + is a 
+operator.
+
+Types of Operators:-
+
+1) Arithmetic Operators:-
++
+-
+*
+/
+%- modulo:- reminder
+++ :- increment operator
+-- :- decrement operator
+
+2) Assignment Operators:-
+
+=
++=
+-=
+*=
+/=
+%=
+
+3) Conditional or Relational Operators:-
+==
+>
+<
+>=
+<=
+!=
+
+output:- Boolean values:- True or False:-0 or 1
+
+
+4) Logical Operators:-
+
+Logical AND:- It returns true if both the statements
+were true.&&
+
+1 1  1
+1 0  0
+0 1  0
+0 0  0
+
+Logical OR:- It returns true if one of the statements
+were true.:- ||
+
+1  1  1
+1  0  1
+0  1  1
+0  0  0
+
+Logical NOT:- It reverse the result, it returns true if
+both the statements were false.!
+
+1   1  0
+1   0  1
+0   1  1
+0   0  1
+
+5) size of operators:- To find the size of datatypes.
+
+
+
+
+
+
+
+
+
+
+
+
+
